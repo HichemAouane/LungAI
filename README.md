@@ -50,9 +50,9 @@ Les tests ont montré des taux de classification très prometteurs, avec des sco
 
 ## 📂 Organisation du projet
 
-📦 lung-nodule-texture-classification ├── data/ # Données CT Scans (prétraitées) 
-├── notebooks/ # Jupyter Notebooks d'expérimentations 
-├── src/ # Scripts Python 
+📦 lung-nodule-texture-classification 
+├── dataset/ # Données CT Scans 
+├── notebooks/ # Jupyter Notebooks pour la creation des models de classification
 ├── models/ # Modèles entraînés 
 ├── app/ # Interface utilisateur Streamlit 
 └── README.md
